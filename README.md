@@ -11,10 +11,6 @@ Computer Science Engineer with more than eleven years of experience in web devel
 [![Blog](https://img.shields.io/badge/Blog-0077B5?style=for-the-badge&logo=myblog&logoColor=white)](https://kmundeando.blogspot.com/)
 [![Kmundeando](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/kmundeando/)
 
-## 📖 My social life
-
-[![Blog](https://img.shields.io/badge/Blog-0077B5?style=for-the-badge&logo=myblog&logoColor=white)](https://kmundeando.blogspot.com/)[![Kmundeando](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/kmundeando/)
-[![Kurrokardi](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/kurrokardi/)
 
 </p>
 
