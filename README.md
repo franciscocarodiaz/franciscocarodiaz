@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Curro, a Mobile Developer 👋
 
-<!--
-**franciscocarodiaz/franciscocarodiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineer with more than eleven years of experience in web development and nine years in mobile. A fast self-learner who really loves make apps for people and always looking new challenges. 
 
-Here are some ideas to get you started:
+[![CV](https://img.shields.io/badge/📖_CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)](https://franciscocarodiaz.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👥 Social
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscocarodiaz/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kurrokardi)
+
+</p>
+
+Scroll down for my repos! 👇
