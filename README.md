@@ -9,6 +9,11 @@ Computer Science Engineer with more than eleven years of experience in web devel
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscocarodiaz/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kurrokardi)
 
+## 📖 My social life
+
+[![Blog](https://img.shields.io/badge/Blog-0077B5?style=for-the-badge&logo=myblog&logoColor=white)](https://kmundeando.blogspot.com/)[![Kmundeando](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/kmundeando/)
+[![Kurrokardi](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/kurrokardi/)
+
 </p>
 
 Scroll down for my repos! 👇
